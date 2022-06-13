@@ -1,4 +1,4 @@
-[![Build Status][workflow-image]][workflow-url]
+test[![Build Status][workflow-image]][workflow-url]
 [![Go Report Card][goreport-image]][goreport-url]
 [![Test Coverage][coverage-image]][coverage-url]
 [![Maintainability][maintainability-image]][maintainability-url]
